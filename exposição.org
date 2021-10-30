@@ -10,6 +10,51 @@
 * Texto
 
 ** 1. Contexto histórico
+*** A) Primeiros passos
+
+Os primeiros esforços de unificação legislativa do Direito da venda internacional começaram nos anos 20 do século passado. Normalmente atribui-se a primeira sugestão de unificação da lei do contrato de venda internacional de mercadorias a Ernst Rabel.
+
+Ernst Rabel foi diretor do Instituto, à data, Kaiser Wilhelm - hoje Max Planck -, para o Direito estrangeiro e Direito Internacional Privado, criado em 1926. Um dos estudos efetuados pelo Instituto foi um estudo comparativo sobre o Direito da venda internacional de mercadorias.
+
+Também em 1926 a Liga das Nações fundou, em Roma, o /Institut international pour l’unification du droit privé/ (UNIDROIT). O UNIDROIT foi um passo importante para a unificação do Direito da venda internacional de mercadorias. O seu [[https://www.unidroit.org/english/presentation/statute.pdf][Estatuto]] estabelece, no artigo 1.º a missão de:
+
+#+begin_quote
+(...) examine  ways  of  harmonising  and  coordinating  the private law of States and of groups of States, and to prepare gradually for the adoption by the various States of uniform rules of private law.
+#+end_quote
+
+Em 1928, Ernst Rabel, membro da direção do UNIDROIT, sugeriu que o primeiro projeto de unificação fosse sobre o Direito material da venda internacional de mercadorias. Rabel apresentou, em 1929, dois relatórios: /(i)/ um relatório provisório relativo às possibilidades de unificação do Direito da venda de mercadorias[fn:1]; e /(ii)/ um relatório sobre o Direito comparado da venda internacional de mercadorias, que viria a ser conhecido por "Relatório Azul"[fn:2].
+
+Em 1930, o UNIDROIT estabeleceu uma comissão com vista a trabalhar no projeto de lei uniforme de venda. A Comissão contava entre os seus membros, para além de Rabel, com representantes dos sistemas jurídicos do /Common Law/, do sistema francês, alemão e dos países Escandinavos.
+
+O primeiro /draft/ foi apresentado em 1935. Este /draft/ era fortemente influenciado pelo estudo de Direito comparado da venda internacional de Rabel.
+
+Quatro anos mais tarde, em 1939, foi apresentado um segundo /draft/. A Segunda Guerra Mundial suspendeu as negociações que só retomaram em 1950.
+
+*** B) As Convenções UNIDROIT de 1964
+:PROPERTIES:
+:ID:       bcab76a9-f161-4285-b7a5-3e8ca6f36a56
+:END:
+
+Em 1951, o UNIDROIT realizou uma conferência de 21 Estados na Haia. Foram enviados novos /drafts/ do projeto de lei uniforme da venda internacional de mercadorias em 1956 e 1963 e iniciaram-se trabalhos no projeto de lei uniforme sobre a formação de contratos de venda internacional de mercadorias.
+
+Em 1964, realizou-se nova conferência diplomática na Haia, desta feita com a participação de 28 Estados, que culminou com a aprovação das duas convenções UNIDROIT de 1964:  uma contendo a [[https://www.unidroit.org/instruments/international-sales/ulis-1964/][Lei uniforme sobre venda internacional de mercadorias]] e outra a [[https://www.unidroit.org/instruments/international-sales/ulfc-1964/][Lei uniforme sobre a formação dos contratos de venda internacional de mercadorias]].
+
+O objetivo destas Convenções era a unificação mundial do Direita da venda internacional de mercadorias. Apesar de terem entrado internacionalmente em vigor, estas Convenções não podem considerar um sucesso quando analisadas em função daquele objetivo: apenas nove Estados se vincularam a estas Convenções.
+
+As razões avançadas para este reduzido número de Estados contratantes são variadas. As que me parecem mais relevantes são o elevado grau de abstração de vários conceitos fulcrais das leis uniformes e, sobretudo, a ideia de que as leis uniformes não tomaram em consideração os interesses dos Estados em vias de desenvolvimentos ou dos Estados de leste, que não particparam na elaboração e aprovação destas leis uniformes.
+
+Ainda assim, estas duas leis uniformes foram relevantes. Elas tiveram uma relevante importância na prática jurisprudencial alemã, italiana, belga, luxemburguesa e holandesa. E marcaram também a elaboração da Convenção de Viena sobre Internacional de Mercadorias.
+
+*** C) A CNUDCI e a génese da CVIM
+
+Em 1966 a Assembleia Geral das Nações Unidas estabeleceu a Comissão das Nacções Unidas para o Direito Comercial Internacional (CNUDCI) como comissão permanente, com o mandato de promover a progressiva harmonização e unificação do Direito do comércio internacional.
+
+A primeira questão com que se deparou, no que se referia à promoção da unificação do direito da venda internacional de mercadorias, era a de tentar promover uma adoção mais ampla das Convenções de 1964, como fez com a Convenção de Nova Iorque de 1958 sobre o Reconhecimento e Execução de Sentenças Arbitrais Estrangeiras /ou/ preparar uma nova Convenção.
+
+Para responder a esta questão enviou o texto das Convenções de 1964, juntamente com o Relatório Explicativo elaborado pelo Professor André Tunc, a vários Governos, pedindo comentários e a posição sobre uma eventual vinculação às Convenções. A CNUDCI chegou à conclusão de que as Convenções não seriam um sucesso: muitos Estados estavam preocupados que as Convenções refletiam as tradições e realidades económicas dos países europeus.
+
+A CNUDCI decidiu assim avançar para a elaboração de uma nova Convenção.
+
 
 
 ** 2. Estados Contratantes
@@ -17,3 +62,10 @@
 * Abreviaturas
 
 CNUDCI - Comissão das Nações Unidas para o Direito Comercial Internacional
+CVIM - Convenção de Viena sobre Venda Internacional de Mercadorias
+UNIDROIT - /Institut international pour l’unification du droit privé/
+
+* Footnotes
+[fn:2] ‘Rapport sur le droit comparé de vente par le “Institut für ausländisches und internationales Privatrecht” de Berlin’ (Rome: Pallotta (1929)), reproduced inter alia in Rabel, Ges Aufs, vol III, p 381 et seq.
+
+[fn:1] Report A of the Institute, RabelsZ 3 (1929).
