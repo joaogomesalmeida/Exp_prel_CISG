@@ -4,8 +4,16 @@
 * Sumário
 
 ** 1. Contexto histórico
-** 2. Estados contratantes
-** 3. Características gerais
+*** A) Primeiros passos
+*** B) As Convenções Unidroit de 1964
+*** C) A CNUDCI e a génese da CVIM
+*** D) Razões do sucesso da CVIM
+** 2. Características gerais
+*** A) Conciliação de diferentes sistemas jurídicos e económicos
+*** B) Utilização de conceitos indeterminados
+*** C) Relativo favorecimento do comprador
+*** D) Uniformização limitada do Direito material
+*** E) Atribuição de carácter vinculativo aos usos do comércio
 
 * Texto
 
@@ -63,12 +71,31 @@ O início da segunda fase dá-se com a reunião da CNUDCI em Viena, de maio a ju
 
 O /New York Draft/ foi enviado para os governos dos Membros das Nações Unidas. Ele e os comentários recebidos foram a base da Convenção de Viena sobre a Venda Internacional de Mercadorias.
 
-A terceira e última fase inicia-se com a Conferência das Nações Unidas que teve lugar em Viena, de 10 de março a 11 de abril de 1980. Participaram nesta conferência 62 Estados e 8 organizações internacionais. Foram formados dois comitês: o primeiro trabalhou as normas substantivas (arts. 1 a 88 da CVIM); o segundo as disposições finais (arts. 89 a 101) e preparou um protocolo para a Convenção sobre prescição em matéria de venda internacional de mercadorias, de modo a adaptar esta convenção à futura Convenção sobre a Venda Internacional de Mercadorias.
+A terceira e última fase inicia-se com a Conferência das Nações Unidas que teve lugar em Viena, de 10 de março a 11 de abril de 1980. Participaram nesta conferência 62 Estados e 8 organizações internacionais. Foram formados dois comitês: o primeiro trabalhou as normas substantivas (arts. 1 a 88 da CVIM); o segundo as disposições finais (arts. 89 a 101) e preparou um protocolo para a Convenção sobre prescição em matéria de venda internacional de mercadorias, de modo a adaptar esta convenção à futura Convenção sobre a Venda Internacional de Mercadorias. A Convenção foi aprovada em 11 de março de 1980 e entrou internacionalmente em vigor em 1 de janeiro de 1988, doze meses passados da data da 10.ª adesão. Hoje são 94 os Estados contratantes.
 
 
+*** D) Razões do sucesso da CVIM
 
-** 2. Estados Contratantes
-** 3. Características gerais
+Pode perguntar-se porque teve a Convenção sobre a Venda Internacional de Mercadorias sucesso e as Convenções da Haia de 1964 não.
+
+A verdade é que a Convenção corrigiu aquele que parece ter sido o maior "pecado" das Convenções. Participaram na elaboração das Convenções da Haia 28 Estados, dos quais 19 eram da Europa Ocidental, 3 da Europa de Leste (mas a ex-URSS não participou) e apenas 5 eram da África, Ásia e América do Sul. Este desiquilíbrio fomentou a perceção - certa ou errada, isso é irrelevante - de que as Convenções da Haia não tomavam em consideração os interesses de Estados que não os da Europa Ocidental.
+
+A CNUDCI estabeleceu uma distribuição regional específica para os seus membros, de modo a garantir a representação das várias regiões geográficas e dos princípais sistemas jurídicos e económicos mundiais. Assim, 9 membros eram da África, 7 membros da Ásia, 5 da Europa de leste, 6 da América do Sul e 9 dos Estados ocidentais.
+
+Consequentemente, e em contraste com as Convenções da Haia de 1964, a Convenção sobre a Venda Internacional de Mercadorias procura conciliar diferentes tradições jurídicas e utiliza mais conceitos indeterminados de modo a facilitar a vinculação internacional de mais Estados. Nesse mesmo sentido, também parece ser de notar a importância da junção, num único texto, das regras sobre formação do contrato e sobre a venda internacional de mercadorias.
+
+Por fim, acautelou-se também que a Convenção da Viena só vigoraria se conseguisse granjear mais Estados Contratantes do que as Convenções da Haia de 1964. É esta a razão de se exigir no artigo 99.º, n.º 1, a vinculação internacional de 10 Estados para a entrada em vigor internacional da Convenção.
+
+** 2. Características gerais
+
+Relatado, em termos necessariamente breves, o percurso que levou a aprovação da Convenção sobre a Venda Internacional de Mercadorias, quero agora abordar aquilo que se pode designar por características gerais.
+
+*** A) Conciliação de diferentes sistemas jurídicos e económicos
+*** B) Utilização de conceitos indeterminados
+*** C) Relativo favorecimento do comprador
+*** D) Uniformização limitada do Direito material
+*** E) Atribuição de carácter vinculativo aos usos do comércio
+
 * Abreviaturas
 
 CNUDCI - Comissão das Nações Unidas para o Direito Comercial Internacional
