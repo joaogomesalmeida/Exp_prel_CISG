@@ -49,7 +49,7 @@ Em 1964, realizou-se nova conferência diplomática na Haia, desta feita com a p
 
 O objetivo destas Convenções era a unificação mundial do Direita da venda internacional de mercadorias. Apesar de terem entrado internacionalmente em vigor, estas Convenções não podem considerar um sucesso quando analisadas em função daquele objetivo: apenas nove Estados se vincularam a estas Convenções.
 
-As razões avançadas para este reduzido número de Estados contratantes são variadas. As que me parecem mais relevantes são o elevado grau de abstração de vários conceitos fulcrais das leis uniformes e, sobretudo, a ideia de que as leis uniformes não tomaram em consideração os interesses dos Estados em vias de desenvolvimentos ou dos Estados de leste, que não particparam na elaboração e aprovação destas leis uniformes.
+As razões avançadas para este reduzido número de Estados contratantes são variadas. As que me parecem mais relevantes são o elevado grau de abstração de vários conceitos fulcrais das leis uniformes e, sobretudo, a ideia de que as leis uniformes não tomaram em consideração os interesses dos Estados em vias de desenvolvimentos ou dos Estados de leste, que não particparam na elaboração e aprovação destas leis uniformes. Outra razão avançada é a não vinculação de alguns dos Estados mais importantes no comércio internacional, como os Estados Unidos da América e a França.
 
 Ainda assim, estas duas leis uniformes foram relevantes. Elas tiveram uma relevante importância na prática jurisprudencial alemã, italiana, belga, luxemburguesa e holandesa. E marcaram também a elaboração da Convenção de Viena sobre Internacional de Mercadorias.
 
@@ -90,7 +90,14 @@ Por fim, acautelou-se também que a Convenção da Viena só vigoraria se conseg
 
 Relatado, em termos necessariamente breves, o percurso que levou a aprovação da Convenção sobre a Venda Internacional de Mercadorias, quero agora abordar aquilo que se pode designar por características gerais.
 
+Como já referi, atualmente são 94 os Estados Contratantes da Convenção sobre a Venda Internacional de Mercadorias. É, no campo do comércio internacional, a segunda Convenção com maior número de Estados Contratantes (a primeira é a Convenção de Nova Iorque sobre Reconhecimento e Execução de Sentenças Arbitrais Estrangeiras). Quase todos os principais Estados na área do comércio internacional são Estados Contratantes da Convenção: as exceções são o Reino Unido e a Índia.
+
 *** A) Conciliação de diferentes sistemas jurídicos e económicos
+
+A Convenção de Viena sobre a Venda Internacional de Mercadorias uniformiza o direito material privado em matéria de formação de contrato e venda internacional de mercadorias. Fê-lo, procurando conciliar os principais sistemas jurídicos e económicos existentes. Essa tarefa obrigou a formular /conceitos novos/ e a utilizar outros próprios de determinada cultura jurídica que são estranhos a outras culturas jurídicas.
+
+Em qualquer dos casos, a Convenção /obriga/ o intérprete e o aplicador do Direito a ter uma atitude de especial abertura. O intérprete e o aplicador do Direito devem ter especial cuidado e atenção para não cair na tentação de interpretar os conceitos da Convenção de acordo com a sua própria cultura jurídica e o seu próprio direito material.
+
 *** B) Utilização de conceitos indeterminados
 *** C) Relativo favorecimento do comprador
 *** D) Uniformização limitada do Direito material
