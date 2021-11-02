@@ -1,24 +1,12 @@
 #+TITLE: Introdução à Convenção de Viena sobre Venda Internacional de Mercadorias
 #+AUTHOR: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: date:nil toc:nil num:nil
+#+LATEX_COMPILER: xelatex
 
-* Sumário
 
-** 1. Contexto histórico
-*** A) Primeiros passos
-*** B) As Convenções Unidroit de 1964
-*** C) A CNUDCI e a génese da CVIM
-*** D) Razões do sucesso da CVIM
-** 2. Características gerais
-*** A) Conciliação de diferentes sistemas jurídicos e económicos
-*** B) Utilização de conceitos indeterminados
-*** C) Relativo favorecimento do comprador
-*** D) Uniformização limitada do Direito material
-*** E) Atribuição de carácter vinculativo aos usos do comércio
-
-* Texto
-
-** 1. Contexto histórico
-*** A) Primeiros passos
+* 1. Contexto histórico
+** A) Primeiros passos
 
 Os primeiros esforços de unificação legislativa do Direito da venda internacional começaram nos anos 20 do século passado. Normalmente atribui-se a primeira sugestão de unificação da lei do contrato de venda internacional de mercadorias a Ernst Rabel.
 
@@ -38,7 +26,7 @@ O primeiro /draft/ foi apresentado em 1935. Este /draft/ era fortemente influenc
 
 Quatro anos mais tarde, em 1939, foi apresentado um segundo /draft/. A Segunda Guerra Mundial suspendeu as negociações que só retomaram em 1950.
 
-*** B) As Convenções UNIDROIT de 1964
+** B) As Convenções UNIDROIT de 1964
 :PROPERTIES:
 :ID:       bcab76a9-f161-4285-b7a5-3e8ca6f36a56
 :END:
@@ -53,7 +41,7 @@ As razões avançadas para este reduzido número de Estados contratantes são va
 
 Ainda assim, estas duas leis uniformes foram relevantes. Elas tiveram uma relevante importância na prática jurisprudencial alemã, italiana, belga, luxemburguesa e holandesa. E marcaram também a elaboração da Convenção de Viena sobre Internacional de Mercadorias.
 
-*** C) A CNUDCI e a génese da CVIM
+** C) A CNUDCI e a génese da CVIM
 
 Em 1966 a Assembleia Geral das Nações Unidas estabeleceu a Comissão das Nacções Unidas para o Direito Comercial Internacional (CNUDCI) como comissão permanente, com o mandato de promover a progressiva harmonização e unificação do Direito do comércio internacional.
 
@@ -74,7 +62,7 @@ O /New York Draft/ foi enviado para os governos dos Membros das Nações Unidas.
 A terceira e última fase inicia-se com a Conferência das Nações Unidas que teve lugar em Viena, de 10 de março a 11 de abril de 1980. Participaram nesta conferência 62 Estados e 8 organizações internacionais. Foram formados dois comitês: o primeiro trabalhou as normas substantivas (arts. 1 a 88 da CVIM); o segundo as disposições finais (arts. 89 a 101) e preparou um protocolo para a Convenção sobre prescição em matéria de venda internacional de mercadorias, de modo a adaptar esta convenção à futura Convenção sobre a Venda Internacional de Mercadorias. A Convenção foi aprovada em 11 de março de 1980 e entrou internacionalmente em vigor em 1 de janeiro de 1988, doze meses passados da data da 10.ª adesão. Hoje são 94 os Estados contratantes.
 
 
-*** D) Razões do sucesso da CVIM
+** D) Razões do sucesso da CVIM
 
 Pode perguntar-se porque teve a Convenção sobre a Venda Internacional de Mercadorias sucesso e as Convenções da Haia de 1964 não.
 
@@ -86,22 +74,26 @@ Consequentemente, e em contraste com as Convenções da Haia de 1964, a Convenç
 
 Por fim, acautelou-se também que a Convenção da Viena só vigoraria se conseguisse granjear mais Estados Contratantes do que as Convenções da Haia de 1964. É esta a razão de se exigir no artigo 99.º, n.º 1, a vinculação internacional de 10 Estados para a entrada em vigor internacional da Convenção.
 
-** 2. Características gerais
+* 2. Características gerais
 
 Relatado, em termos necessariamente breves, o percurso que levou a aprovação da Convenção sobre a Venda Internacional de Mercadorias, quero agora abordar aquilo que se pode designar por características gerais.
 
 Como já referi, atualmente são 94 os Estados Contratantes da Convenção sobre a Venda Internacional de Mercadorias. É, no campo do comércio internacional, a segunda Convenção com maior número de Estados Contratantes (a primeira é a Convenção de Nova Iorque sobre Reconhecimento e Execução de Sentenças Arbitrais Estrangeiras). Quase todos os principais Estados na área do comércio internacional são Estados Contratantes da Convenção: as exceções são o Reino Unido e a Índia.
 
-*** A) Conciliação de diferentes sistemas jurídicos e económicos
+** A) Conciliação de diferentes sistemas jurídicos e económicos
 
-A Convenção de Viena sobre a Venda Internacional de Mercadorias uniformiza o direito material privado em matéria de formação de contrato e venda internacional de mercadorias. Fê-lo, procurando conciliar os principais sistemas jurídicos e económicos existentes. Essa tarefa obrigou a formular /conceitos novos/ e a utilizar outros próprios de determinada cultura jurídica que são estranhos a outras culturas jurídicas.
+A Convenção de Viena sobre a Venda Internacional de Mercadorias uniformiza o direito material privado em matéria de formação de contrato e venda internacional de mercadorias. Fê-lo, procurando conciliar os principais sistemas jurídicos e económicos existentes. Essa tarefa obrigou a formular /conceitos novos/ (v.g. o conceito de violação fundamental previsto no artigo 25.º da CVIM) e a utilizar outros próprios de determinada cultura jurídica que são estranhos a outras culturas jurídicas.
 
 Em qualquer dos casos, a Convenção /obriga/ o intérprete e o aplicador do Direito a ter uma atitude de especial abertura. O intérprete e o aplicador do Direito devem ter especial cuidado e atenção para não cair na tentação de interpretar os conceitos da Convenção de acordo com a sua própria cultura jurídica e o seu próprio direito material.
 
-*** B) Utilização de conceitos indeterminados
-*** C) Relativo favorecimento do comprador
-*** D) Uniformização limitada do Direito material
-*** E) Atribuição de carácter vinculativo aos usos do comércio
+A Convenção de Viena sobre Venda Internacional de Mercadorias preocupa-se, verdadeiramente, em garantir uma interpretação uniforme das suas disposições e evitar uma "re-nacionalização" das mesmas através de uma interpretação e aplicação sob o prisma da /lex fori/. É, por isso, particularmente importante o artigo 7.º, que estabelece regras de interpretação das disposições da Convenção e de integração de lacunas. Não é o meu objetivo analisar aqui este importante preceito, mas assinalo que este preceito /(i)/ expressamente refere o carácter internacional da Convenção, o que tem sido entendido como impondo uma interpretação autónoma das suas disposições; este preceito /(ii)/ assinala a necessidade de promover a uniformidade de aplicação, o que nos aponta para tomarmos em consideração a jurisprudência; e este preceito /(iii)/ exige também que se respeite a boa-fé no comércio internacional, o que tem sido visto como uma garantia de tomada em consideração dos usos do comércio internacional.
+
+Interessa-me agora referir um pouco mais a necessidade de promover a uniformidade de aplicação. Como disse, esta diretriz tem sido entendida como dando relevo à jurisprudência. Saliento que o intérprete e o aplicador não devem apenas atender à jurisprudência do seu Estado. Tanto quanto possível - e como veremos, é bastante possível - o intérprete e o aplicador devem atender à jurisprudência dos vários Estados contratantes da CISG. Só assim se garante uma verdadeira uniformidade de aplicação.
+
+** B) Utilização de conceitos indeterminados
+** C) Relativo favorecimento do comprador
+** D) Uniformização limitada do Direito material
+** E) Atribuição de carácter vinculativo aos usos do comércio
 
 * Abreviaturas
 
