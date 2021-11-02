@@ -88,11 +88,40 @@ Em qualquer dos casos, a Convenção /obriga/ o intérprete e o aplicador do Dir
 
 A Convenção de Viena sobre Venda Internacional de Mercadorias preocupa-se, verdadeiramente, em garantir uma interpretação uniforme das suas disposições e evitar uma "re-nacionalização" das mesmas através de uma interpretação e aplicação sob o prisma da /lex fori/. É, por isso, particularmente importante o artigo 7.º, que estabelece regras de interpretação das disposições da Convenção e de integração de lacunas. Não é o meu objetivo analisar aqui este importante preceito, mas assinalo que este preceito /(i)/ expressamente refere o carácter internacional da Convenção, o que tem sido entendido como impondo uma interpretação autónoma das suas disposições; este preceito /(ii)/ assinala a necessidade de promover a uniformidade de aplicação, o que nos aponta para tomarmos em consideração a jurisprudência; e este preceito /(iii)/ exige também que se respeite a boa-fé no comércio internacional, o que tem sido visto como uma garantia de tomada em consideração dos usos do comércio internacional.
 
-Interessa-me agora referir um pouco mais a necessidade de promover a uniformidade de aplicação. Como disse, esta diretriz tem sido entendida como dando relevo à jurisprudência. Saliento que o intérprete e o aplicador não devem apenas atender à jurisprudência do seu Estado. Tanto quanto possível - e como veremos, é bastante possível - o intérprete e o aplicador devem atender à jurisprudência dos vários Estados contratantes da CISG. Só assim se garante uma verdadeira uniformidade de aplicação.
+Interessa-me agora referir um pouco mais a necessidade de promover a uniformidade de aplicação. Como disse, esta diretriz tem sido entendida como dando relevo à jurisprudência. Saliento que o intérprete e o aplicador não devem apenas atender à jurisprudência do seu Estado. Tanto quanto possível - e como veremos, é bastante possível - o intérprete e o aplicador devem atender à jurisprudência dos vários Estados contratantes da CISG. Só assim se garante uma verdadeira uniformidade de aplicação. Aqui, quero destacar as bases de dados disponíveis na /Internet/ que permitem facilmente contactar com uma enorme fonte de decisões de litígios mediante a aplicação da Convenção. Destaco aqui a base de dados CLOUT (da CNUDCI), a base de dados PACE e também a Base de Dados brasileira disponível em www.cisg-brasil.net.
 
 ** B) Utilização de conceitos indeterminados
+
+Outra característica é utilização muito freqente de conceitos indeterminados. Na definição de violação fundamental (art. 25.º), usa-se o conceito indeterminado de "pessoa razoável". No artigo 39.º/1 o comprador perde o direito de invocar a falta de conformidade se não o fizer num "prazo razoável".
+
+O recurso a conceitos indeterminados permite uma margem de apreciação que permite uma modelação do resultado em face de todas as circunstâncias do caso concreto. O recurso também se justifica por a venda internacional de mercadorias poder assumir configurações muito variadas, não sendo fácil (eventualmente não sendo mesmo possível) encontrar uma solução /rígida e precisa/ que seja adequada a todas essas configurações.
+
+Esta flexibilização também é compreensível se atendermos ao relevo da autonomia privada. No essencial, e por força do artigo 6.º da Convenção, todas as suas disposições são supletivas, isto é, podem ser afastadas mediante acordo das partes. A aplicação da própria Convenção pode ser afastada mediante acordo das partes.
+
+Por vezes, o recurso a conceitos indeterminados foi a forma encontrada de ultrapassar dificuldades políticas (posições contraditórias) na elaboração dos artigos: é o caso do conceito de "motivo razoável", no artigo 44.º.
+
+Por fim, o recurso a conceitos indeterminados é também o preço a pagar pela conciliação de diversos sistemas jurídicos.
+
 ** C) Relativo favorecimento do comprador
+
+Alguns autores sustentam que as regras da Convenção favorecem o comprador. Outros referem que o Direito nacional dos países da família Romano-Germânica tende a favorecer o vendedor, com regras a impor o exame dos bens pelo comprador e o dever de notificar o devedor de quaisquer defeitos.
+
+Não há dúvidas que alguns conceitos - como o de conformidade (art. 35.º) - são mais favoráveis para o comprador (pelo menos se comparados com o regime interno). Isto deve-se, no essencial, às posições manifestadas pelos países em vias de desenvolvimento. Um exemplo claro desta dicotomia pode ser visto nas regras de exame dos bens e notificação do vendedor de falta de conformidade (arts. 38.º, 39.º e 44.º). A Convenção manteve obrigações de exame dos bens e de notificação do vendedor, que beneficiam este último, apesar de os Estados em vias de desenvolvimento terem pressionado em favor da eliminação do dever de notificação. Ainda assim, a verdade é que os prazos de exame e notificação são fixados com recurso a conceitos indeterminados: o exame tem de ser efetuado "no mais curto prazo possível, tendo em conta as circunstâncias"; a notificação "num prazo razoável". Estes conceitos indeterminados permitem modelar a solução atendendo às circunstâcnias do caso concreto, o que muitas vezes permite acautelar a preocupação dos países em vias de desenvolvimento: apesar de os compradores sediados nesses países não estarem habituados a estas obrigações, a não fixação de regras rígidas e precisas permite acautelar os interesses destes, mesmo em casos em que o exame ou notificação não foi efetuada do modo mais célere possível.
+
+No que se refere à notificação, a Convenção consagrou uma solução peculiar. A falta de notificação não impede que o comprador consiga uma redução do preço ou uma indemnização por perdas e danos, salvo quanto ao lucro cessantes, desde que ele tenha um "motivo razoável" para não ter feito a notificação (art. 44.º).
+
+De qualquer modo, seja qual for a vossa opinião sobre o equilíbrio das partes na Convenção, não é possível esquecer que as partes podem recompor esse equilíbrio. Como já disse, no essencial a Convenção tem regras supletivas. As partes podem afastar as soluções da Convenção e gizar o seu próprio equilíbrio.
+
 ** D) Uniformização limitada do Direito material
+
+A Convenção de Viena sobre a Venda Internacional de Mercadorias é um instrumento muito importante e muito bem sucedido na área do comércio internacional.
+
+Ainda assim, é importante ter presente que ela só uniformiza o Direito material da formação do contrato de venda e dos direitos e obrigações por ele gerados.
+
+A Convenção não regula, por exemplo, a validade do contrato nem os efeitos reais deste. Isto significa que a uniformização do contrato de venda internacional de mercadoria /não/ é exaustiva. E, nas matérias não reguladas pela Convenção, temos ainda de recorrer ao Direito de Conflitos do foro para determinar qual o Direito material aplicável.
+
+Acresce que os Estados podem efetuar uma reserva, nos termos do artigo 92.º da Convenção, no sentido de que só se vinculam ou à Parte II (formação do contrato) ou à Parte III (direitos e obrigações das partes). Nos Estados que façam estas reservas, o âmbito da uniformização é ainda menor.
+
 ** E) Atribuição de carácter vinculativo aos usos do comércio
 
 * Abreviaturas
