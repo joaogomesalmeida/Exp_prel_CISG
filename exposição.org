@@ -88,7 +88,7 @@ Em qualquer dos casos, a Convenção /obriga/ o intérprete e o aplicador do Dir
 
 A Convenção de Viena sobre Venda Internacional de Mercadorias preocupa-se, verdadeiramente, em garantir uma interpretação uniforme das suas disposições e evitar uma "re-nacionalização" das mesmas através de uma interpretação e aplicação sob o prisma da /lex fori/. É, por isso, particularmente importante o artigo 7.º, que estabelece regras de interpretação das disposições da Convenção e de integração de lacunas. Não é o meu objetivo analisar aqui este importante preceito, mas assinalo que este preceito /(i)/ expressamente refere o carácter internacional da Convenção, o que tem sido entendido como impondo uma interpretação autónoma das suas disposições; este preceito /(ii)/ assinala a necessidade de promover a uniformidade de aplicação, o que nos aponta para tomarmos em consideração a jurisprudência; e este preceito /(iii)/ exige também que se respeite a boa-fé no comércio internacional, o que tem sido visto como uma garantia de tomada em consideração dos usos do comércio internacional.
 
-Interessa-me agora referir um pouco mais a necessidade de promover a uniformidade de aplicação. Como disse, esta diretriz tem sido entendida como dando relevo à jurisprudência. Saliento que o intérprete e o aplicador não devem apenas atender à jurisprudência do seu Estado. Tanto quanto possível - e como veremos, é bastante possível - o intérprete e o aplicador devem atender à jurisprudência dos vários Estados contratantes da CISG. Só assim se garante uma verdadeira uniformidade de aplicação. Aqui, quero destacar as bases de dados disponíveis na /Internet/ que permitem facilmente contactar com uma enorme fonte de decisões de litígios mediante a aplicação da Convenção. Destaco aqui a base de dados CLOUT (da CNUDCI), a base de dados PACE e também a Base de Dados brasileira disponível em www.cisg-brasil.net.
+Interessa-me agora referir um pouco mais a necessidade de promover a uniformidade de aplicação. Como disse, esta diretriz tem sido entendida como dando relevo à jurisprudência. Saliento que o intérprete e o aplicador não devem apenas atender à jurisprudência do seu Estado. Tanto quanto possível - e como veremos, é bastante possível - o intérprete e o aplicador devem atender à jurisprudência dos vários Estados contratantes da CISG. Só assim se garante uma verdadeira uniformidade de aplicação. Aqui, quero destacar as bases de dados disponíveis na /Internet/ que permitem facilmente contactar com uma enorme fonte de decisões de litígios mediante a aplicação da Convenção. Destaco aqui a base de dados CLOUT (da CNUDCI), a base de dados PACE e também a Base de Dados brasileira disponível em www.cisg-brasil.net. Também é interessante verificar às opiniões do Conselho Consultivo da CVIM. Trata-se de uma entidade privada, que visa promover a interpretação uniforme da Convenção. Os seus membros são, geralmente, académicos e pessoas ligadas ao comércio internacional. Emitem opiniões sobre questões relevantes da Convenção, com vista a promover uma interpretação uniforme das suas disposições.
 
 ** B) Utilização de conceitos indeterminados
 
@@ -124,7 +124,33 @@ Acresce que os Estados podem efetuar uma reserva, nos termos do artigo 92.º da 
 
 ** E) Atribuição de carácter vinculativo aos usos do comércio
 
-A solução
+A solução que consta do artigo 9.º, n.º 2, da Convenção é extramemente interessante:
+
+#+begin_quote
+ 2 - Salvo acordo em contrário, considera-se que as partes aplicaram tacitamente ao contrato ou à sua formação um uso que conhecessem ou devessem ter conhecimento e que, no comércio internacional, é amplamente conhecido e regularmente observado pelas partes em contratos do mesmo tipo, no ramo comercial considerado.
+#+end_quote
+
+Em primeiro lugar, porque a Convenção não define o conceito de uso ou uso do comércio internacional. Sustenta-se, ao abrigo do artigo 7.º, que o conceito de uso deve ser interpretado autonomamente, isto é, de forma independente dos Direitos nacionais dos Estados Contratantes. Um definição possível é a seguinte:
+
+#+begin_quote
+Uso inclui todos os modos de atuação (incluindo omissões) que são geral e regularmente observados no âmbito de transações do comércio, mesmo que apenas numa área específico do comércio ou num determinado centro comercial.
+#+end_quote
+
+Os usos do artigo 9.º, n.º 2, têm de ser usos internacionais, ou seja, usos do comércio internacional.
+
+O que de mais relevante parece ter o artigo 9.º, n.º 2, é que as partes não parecem ter de acordar na aplicação do uso internacional para este se aplicar e regular o contrato entre elas. Muitos autores referem que este artigo cria uma "ficção jurídica": a de que as partes quiseram que os usos do comércio internacional (amplamente conhecidos e de que as partes devessem ter conhecimento) se aplicassem à regulação da relação contratual mesmo que nada nessa relação permita inferir que as partes ponderaram e quiseram a aplicação desses usos.
+
+Estes usos prevalecem sobre as regras da Convenção, em caso de conflito. Já não me parece que prevaleçam sobre os usos e práticas acordadas pelas partes (art. 9.º, n.º 1), uma vez que, nesse caso, há um acordo em contrário das partes (parte inicial do artigo 9.º, n.º 2). Em caso de conflito entre dois usos do comércio internacional (do art. 9.º, n.º 2) duas soluções foram avançadas pela doutrina: ou prevalece o uso que tem uma ligação mais estreita com a relação contratual ou nenhum dos usos é aplicável (eles anulam-se).
+
+Amplamente conhecido e regularmente observado /não/ significa conhecido de e observado por todos. Signifca que a maioria das pessoas envolvidas numa dada prática comercial (a que corresponde à relação contratual em análise) devem conhecer e observar o uso.
+
+O uso tem de ser do comércio internacional, isto é, tem de se aplicar a relações contratuais internacionais. Pode ser um uso que existe apenas num determinado local (um determinado centro de comércio), desde que nesse centro se celebrem relações contratuais internacionais e que o uso seja amplamente conhecido e observado pela maioria das pessoas que celebram essas relações comerciais.
+
+Exige-se ainda que as partes conheçam ou devessem conhecer: em regra o requisito de que o uso seja amplamente conhecido limita o funcionamento deste requisito subjetivo, isto é, se o uso é amplamente conhecido, em regras as partes que exercem a sua atividade comercial no local onde esse uso é amplamente conhecido terão o dever de o conhecer. Ainda assim, o requisito não é redundante, porque podem verificar-se situações em que a pessoa não conhece o uso amplamente conhecido em função de motivos justificativos.
+
+As questões de saber se um determinado uso existe, se é um uso do comércio internacional e se é amplamente conhecido e observado parecem ser questões de facto. Como tal, parece que cabe à parte que se pretende valer do uso, alegar e provar estes elementos.
+
+Deixo-vos com uma última interrogação: poderão os INCOTERMS e os Princípios UNIDROIT dos Contratos Comerciais Internacionais ser considerados usos internacionais para efeitos do artigo 9.º, n.º 2, da Convenção? A questão tem sido muito discutida na doutrina, mas eu deixaria a análise da mesma para a minha segunda preleção, em que abordarei estes dois instrumentos.
 
 * Abreviaturas
 
