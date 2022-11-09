@@ -5,14 +5,16 @@
 #+LATEX_COMPILER: xelatex
 
 
-* 1. Contexto histórico
-** A) Primeiros passos
-** B) As Convenções Unidroit de 1964
-** C) A CNUDCI e a génese da CVIM
-** D) Razões do sucesso da CVIM
-* 2. Características gerais
-** A) Conciliação de diferentes sistemas jurídicos e económicos
-** B) Utilização de conceitos indeterminados
-** C) Relativo favorecimento do comprador
-** D) Uniformização limitada do Direito material
-** E) Atribuição de carácter vinculativo aos usos do comércio
+1. *Contexto histórico*
+   A) Primeiros passos
+   B) As Convenções Unidroit de 1964
+   C) A CNUDCI e a génese da CVIM
+   D) Razões do sucesso da CVIM
+
+2. *Características gerais*
+   A) Conciliação de diferentes sistemas jurídicos e económicos
+   B) Utilização de conceitos indeterminados
+   C) Relativo favorecimento do comprador
+   D) Uniformização limitada do Direito material
+   E) Atribuição de carácter vinculativo aos usos do comércio
+
