@@ -2,7 +2,6 @@
 #+AUTHOR: João Gomes de Almeida
 #+LANGUAGE: pt
 #+OPTIONS: date:nil toc:nil num:nil
-#+LATEX_CLASS: koma-article
 #+LATEX_COMPILER: xelatex
 
 
